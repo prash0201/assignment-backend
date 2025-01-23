@@ -4,7 +4,7 @@ const routes = require("./routes/furniture");
 
 const app = express();
 const PORT = 4000;
-app.use(cors({ origin: "http://localhost:3000" }));
+app.use(cors({ origin: "https://fog-backend-nr2a.onrender.com" }));
 
 app.get("/", (req, res) => {
   return res.json({
