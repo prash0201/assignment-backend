@@ -3,18 +3,17 @@ const router = express.Router();
 
 const {
   getAllCards,
-  categories,
+
   price,
-  brandName,
-  sortByBrandName,
-  sortByPrice,
+  filter,
+  sortByValue,
 } = require("../controllers/furnitures");
 
-router.get("/furnitureCategory", categories);
+//router.get("/furnitureCategory", categories);
 router.get("/furniturePrice", price);
-router.get("/furnitureBrandName", brandName);
+router.get("/furnitureFilter", filter);
 
 router.get("/cards", getAllCards);
-router.get("/sortByBrandName", sortByBrandName);
-router.get("/sortByPrice", sortByPrice);
+router.get("/sortByValue", sortByValue);
+//router.get("/sortByPrice", sortByPrice);
 module.exports = router;

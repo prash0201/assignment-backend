@@ -1,46 +1,178 @@
 [
   {
     "brandName": "Syltherine",
-    "category": "chair1",
+    "category": "stylishChair",
     "description": "Stylish Cafe Chair",
-    "price": "500",
+    "price": "2500",
     "isDiscount": true,
     "discount": "-30%",
     "path": "/",
     "originalPrize": "3500.000",
-    "imageURL": "utils/chair1.jpg"
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565797/Fog_assignment/image2_qukof0.png"
   },
   {
     "brandName": "Leviosa",
-    "description": "Luxury big Sofa",
+    "description": "Cafe chair",
     "category": "chair",
     "price": "2500",
-    "originalPrize": "2500.000",
+    "originalPrize": "2500",
     "isDiscount": false,
     "discount": "",
     "path": "/",
-    "imageURL": "utils/image2.png"
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565795/Fog_assignment/chair1_geeori.jpg"
   },
   {
     "brandName": "Respira",
     "description": "Outdoor bar table and stool",
     "category": "stool",
-    "price": "1500",
+    "price": "5000",
     "isDiscount": true,
     "discount": "",
-    "originalPrize": "5000.000",
+    "originalPrize": "5000",
     "path": "/",
-    "imageURL": "utils/image3.png"
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565796/Fog_assignment/Images3_kxj5x9.png"
   },
   {
     "brandName": "Lolito",
     "category": "sofa",
     "description": "Luxury big sofa",
-    "price": "3500",
-    "originalPrize": "7000.000",
+    "price": "7000",
+    "originalPrize": "14000",
     "isDiscount": true,
     "discount": "",
     "path": "/",
-    "imageURL": "utils/image4.png"
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565796/Fog_assignment/Images4_qd4nfi.png"
+  },
+  {
+    "brandName": "Syltherine",
+    "category": "stylishChair",
+    "description": "Stylish Cafe Chair",
+    "price": "2500",
+    "isDiscount": true,
+    "discount": "-30%",
+    "path": "/",
+    "originalPrize": "3500.000",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565797/Fog_assignment/image2_qukof0.png"
+  },
+  {
+    "brandName": "Leviosa",
+    "description": "Cafe chair",
+    "category": "chair",
+    "price": "2500",
+    "originalPrize": "2500",
+    "isDiscount": false,
+    "discount": "",
+    "path": "/",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565795/Fog_assignment/chair1_geeori.jpg"
+  },
+  {
+    "brandName": "Respira",
+    "description": "Outdoor bar table and stool",
+    "category": "stool",
+    "price": "5000",
+    "isDiscount": true,
+    "discount": "",
+    "originalPrize": "5000",
+    "path": "/",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565796/Fog_assignment/Images3_kxj5x9.png"
+  },
+  {
+    "brandName": "Lolito",
+    "category": "sofa",
+    "description": "Luxury big sofa",
+    "price": "7000",
+    "originalPrize": "14000",
+    "isDiscount": true,
+    "discount": "",
+    "path": "/",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565796/Fog_assignment/Images4_qd4nfi.png"
+  },
+  {
+    "brandName": "Syltherine",
+    "category": "stylishChair",
+    "description": "Stylish Cafe Chair",
+    "price": "2500",
+    "isDiscount": true,
+    "discount": "-30%",
+    "path": "/",
+    "originalPrize": "3500.000",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565797/Fog_assignment/image2_qukof0.png"
+  },
+  {
+    "brandName": "Leviosa",
+    "description": "Cafe chair",
+    "category": "chair",
+    "price": "2500",
+    "originalPrize": "2500",
+    "isDiscount": false,
+    "discount": "",
+    "path": "/",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565795/Fog_assignment/chair1_geeori.jpg"
+  },
+  {
+    "brandName": "Respira",
+    "description": "Outdoor bar table and stool",
+    "category": "stool",
+    "price": "5000",
+    "isDiscount": true,
+    "discount": "",
+    "originalPrize": "5000",
+    "path": "/",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565796/Fog_assignment/Images3_kxj5x9.png"
+  },
+  {
+    "brandName": "Lolito",
+    "category": "sofa",
+    "description": "Luxury big sofa",
+    "price": "7000",
+    "originalPrize": "14000",
+    "isDiscount": true,
+    "discount": "",
+    "path": "/",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565796/Fog_assignment/Images4_qd4nfi.png"
+  },
+  {
+    "brandName": "Syltherine",
+    "category": "stylishChair",
+    "description": "Stylish Cafe Chair",
+    "price": "2500",
+    "isDiscount": true,
+    "discount": "-30%",
+    "path": "/",
+    "originalPrize": "3500.000",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565797/Fog_assignment/image2_qukof0.png"
+  },
+  {
+    "brandName": "Leviosa",
+    "description": "Cafe chair",
+    "category": "chair",
+    "price": "2500",
+    "originalPrize": "2500",
+    "isDiscount": false,
+    "discount": "",
+    "path": "/",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565795/Fog_assignment/chair1_geeori.jpg"
+  },
+  {
+    "brandName": "Respira",
+    "description": "Outdoor bar table and stool",
+    "category": "stool",
+    "price": "5000",
+    "isDiscount": true,
+    "discount": "",
+    "originalPrize": "5000",
+    "path": "/",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565796/Fog_assignment/Images3_kxj5x9.png"
+  },
+  {
+    "brandName": "Lolito",
+    "category": "sofa",
+    "description": "Luxury big sofa",
+    "price": "7000",
+    "originalPrize": "14000",
+    "isDiscount": true,
+    "discount": "",
+    "path": "/",
+    "imageURL": "https://res.cloudinary.com/dygvq7rbx/image/upload/v1737565796/Fog_assignment/Images4_qd4nfi.png"
   }
 ]
